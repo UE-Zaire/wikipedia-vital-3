@@ -1,0 +1,12 @@
+Family
+City
+Country
+Human
+Family
+Family
+Tokyo
+Japan
+United_Nations
+Emotion
+Home
+Home

@@ -1,0 +1,16 @@
+Mathematics
+Integer
+Natural_number
+Real_number
+Prime_number
+Natural_number
+Integer
+Real_number
+Pi
+E_(mathematical_constant)
+Complex_number
+Number_theory
+Function_(mathematics)
+Kurt_G%C3%B6del
+Set_(mathematics)
+Set_(mathematics)

@@ -1,0 +1,14 @@
+Weapon
+Firearm
+Middle_Ages
+Renaissance
+Black_Death
+Age_of_Enlightenment
+World_War_I
+World_War_II
+Winston_Churchill
+World_War_I
+Tank
+Cold_War
+Armour
+Armour

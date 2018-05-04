@@ -1,0 +1,11 @@
+Geometry
+Number
+Real_number
+Complex_number
+Plane_(geometry)
+Infinity
+Triangle
+Dimension
+Geometry
+Coordinate_system
+Coordinate_system
